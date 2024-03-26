@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 
-void main(){
+int main(){
     int a,b,c,d,p,q,r;
     printf("Equation is as ax2 + bx + c\nEnter the values for a,b,and c :");
     scanf("%d %d %d", &a, &b, &c);
